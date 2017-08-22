@@ -4,11 +4,11 @@
 
 # 章立て
 
-```
+
 Welcome to Swift (Swiftへようこそ！)
-  ├── About Swift (Swiftについて)　[@Saayaman](https://github.com/Saayaman)
-  ├── Version Compatibility (バージョン一致性)　
-  └── A swift tour (Swiftへの誘い)
+  - [x] About Swift (Swiftについて)　[@Saayaman](https://github.com/Saayaman)
+  - [ ] Version Compatibility (バージョン一致性)　
+  - [ ] A swift tour (Swiftへの誘い)
 
 Language Guide (言語の使い方)
   ├── 
