@@ -11,20 +11,12 @@ Welcome to Swift (Swiftへようこそ！)
   - [ ] A swift tour (Swiftへの誘い)
 
 Language Guide (言語の使い方)
-  ├── 
-  ├── 
-  ├── 
-  
+
+
 Language Reference (言語の参照)
-  ├── 
-  ├── 
-  ├── 
+
 
 Revision History (改訂の履歴)
-  ├── 
-  ├── 
-  ├── 
 
-```
 
 
