@@ -6,7 +6,7 @@
 
 
 Welcome to Swift (Swiftへようこそ！)
-  - [x] About Swift (Swiftについて)　[@Saayaman](https://github.com/Saayaman)
+   [x] About Swift (Swiftについて)　[@Saayaman](https://github.com/Saayaman)
   - [ ] Version Compatibility (バージョン一致性)　
   - [ ] A swift tour (Swiftへの誘い)
 
