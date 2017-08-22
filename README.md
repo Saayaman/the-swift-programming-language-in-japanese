@@ -1,4 +1,4 @@
-# the-swift-programming-language-in-japanese
+# The Swift Programming Language (swift 4) IN JAPANESE
 
 >[Swiftの公式ドキュメント](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)を全部日本語化しようという無謀なプロジェクトです。
 
